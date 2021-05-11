@@ -1,0 +1,5 @@
+sudo yum check-update
+sudo yum update
+ssh-keygen -t rsa -b 4096
+shutdown -r now
+# EOF
