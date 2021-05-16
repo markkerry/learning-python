@@ -52,8 +52,8 @@ print(lotto_nums2)
 
 # like a data structure container. Similar to a list
 
-# Tupples are immutable. Cannot be changed or modified
-# Lists can. Lists like Variables, Tupples like Constants
+# Tuples are immutable. Cannot be changed or modified
+# Lists can. Lists like Variables, Tuples like Constants
 
 coordinates = (4, 5)
 print(coordinates[0])

@@ -1,16 +1,5 @@
 # Learning-Python
 
-Table of contents:
-1. [Variables and Data Types](#Variables and Data Types)
-2. [Basic Operators](#Basic Operators)
-3. [User Input]()
-4. [List arrays and Tupples]()
-5. [Functions]()
-7. [If Else Elif]()
-8. [Dictionaries]()
-9. [Loops]()
-10. [Modules]()
-
 <br>
 
 ## Variables and Data Types
@@ -80,7 +69,7 @@ result = int(num1) + int(num2)
 print(f"But the strings converted into ints and added equals {result}")
 ```
 
-## List arrays and Tupples
+## List arrays and Tuples
 
 ```python
 # Create the array with 3 elements
@@ -119,8 +108,8 @@ lotto_nums2 = lotto_nums.copy()
 lotto_nums2.reverse()
 print(lotto_nums2)
 
-# Tupples are immutable. Cannot be changed or modified
-# Lists can. Lists like Variables, Tupples like Constants
+# Tuples are immutable. Cannot be changed or modified
+# Lists can. Lists like Variables, Tuples like Constants
 
 coordinates = (4, 5)
 print(coordinates[0])
@@ -374,10 +363,4 @@ import docx
 
 # remove the module
 pip uninstall python-docx
-```
-
-## modules
-
-```python
-
 ```
