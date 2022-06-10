@@ -48,10 +48,10 @@ print(six)
 print(3 * 4 + 5) # equals 17
 print(3 * (4 + 5)) # equals 27
 
-# mod gives you the remainder of an eqautsion
+# mod gives you the remainder
 print(10 % 3) # equals 1
 
-# min and max fucntions. print smallest of two numbers, then largest of two numbers
+# min and max functions. print smallest of two numbers, then largest of two numbers
 print(min(4, 6))
 print(max(4, 6))
 print(round(9.8))
