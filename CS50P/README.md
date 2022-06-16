@@ -1,10 +1,6 @@
 # StackOverflow Questions
 
-Name: Mark Kerry
-Country: England, UK
-Email: mark-kerry@outlook.com
-Website: https://markkerry.github.io
-GitHub: https://github.com/markkerry
+Name: Mark Kerry | Country: England, UK | Email: mark-kerry@outlook.com | Website: https://markkerry.github.io | GitHub: https://github.com/markkerry
 
 ## Video Demo:  <URL HERE>
 
